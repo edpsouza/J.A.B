@@ -1,0 +1,8 @@
+# Ignore the virtual environment directory
+.venv
+
+# Ignore data used only for local testing
+.env
+
+# Ignore macOS system files
+.DS_Store
